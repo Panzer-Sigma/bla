@@ -1,0 +1,21 @@
+{
+  "name": "bla",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "gemidao.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://panzersigma@bitbucket.org/panzersigma/bla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/panzersigma/bla#readme"
+}
